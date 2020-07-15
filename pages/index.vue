@@ -6,7 +6,7 @@
         sourceCodeProviderTest
       </h1>
       <h2 class="subtitle">
-        My impeccable Nuxt.js project
+        My impeccable Nuxt.js projects
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
